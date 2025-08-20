@@ -5,7 +5,7 @@ import "./style.css"
 
 const image = {
   url: "https://images.pexels.com/photos/753339/pexels-photo-753339.jpeg",
-  altName: "Kremlin"
+  altName: "Cathedral"
 }
 const Slideshow = () => {
   return (
